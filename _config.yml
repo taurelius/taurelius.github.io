@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Toby Aurelius
+url: https://taurelius.github.io
+title: Toby Aurelius
+description: Software Developer
 twitter:
-  username: #yourusername
+  username: tobyaurelius
   card: summary
-  creator: #yourusername
+  creator: tobyaurelius
 author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
+  twitter: tobyaurelius
+  name: Toby
+  avatar: https://avatars1.githubusercontent.com/u/22025115?v=2&s=200
   email: #youremail
-  url: #yoururl
+  url: https://taurelius.github.io
 permalink: pretty
 
 baseurl: ""
