@@ -8,7 +8,7 @@ twitter:
   creator: tobyaurelius
 author:
   twitter: tobyaurelius
-  name: Toby
+  name: Toby Aurelius
   avatar: https://avatars1.githubusercontent.com/u/22025115?v=2&s=200
   email: #youremail
   url: https://taurelius.github.io
@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: ""
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
