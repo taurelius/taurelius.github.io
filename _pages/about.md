@@ -8,11 +8,10 @@ title:
 
 Hello! 👋 
 
-My name is Toby, I'm a Back-end Software Developer based in London. Currently, I can be found working at [Kaluza](https://kaluza.com). Before this I spent just over 3 years working at [Sky](https://sky.com).
+My name is Toby, I'm a Backend Software Engineer based in London. Currently, I can be found writing Golang at [Popsa](https://popsa.com). Before this I spent time working at [Kaluza](https://kaluza.com) and [Sky](https://sky.com).
 
-Working primarily in Scala, with the occasional bit of Python.
 
-## Find me
+## Find me ✨
 
 * [LinkedIn](https://linkedin.com/in/tobyaurelius) 
 * [GitHub](https://github.com/taurelius)
